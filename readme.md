@@ -104,7 +104,7 @@ OSX Users, This is a script for configuring vboxnet0 to connect to our lab VMs o
 This github repo contains a bookmarks.html and JSON file (exported from Firefox) with links to other free/cheap  training resources. Run into something that confused you in this training, trying digging through the resources here:  
  https://github.com/da667/Training_Materials_Bookmarks  
 
-==HARDWARE REQUIREMENTS==
+==HARDWARE REQUIREMENTS==  
 Here are the hardware requirements I recommend:
 
 -RAM: minimum of 8GB of RAM, with 16GB+ recommended.  
