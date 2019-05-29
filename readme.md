@@ -87,10 +87,10 @@ This section isn't exactly mandatory, but you'll thank me later. Request a "Deve
 Finally, I have some github projects for you to download:  
 
 If you want to install Snort IDS/IPS for your lab environment, download this:  
--Autosnort: github.com/da667/Autosnort  
+-Autosnort: https://github.com/da667/Autosnort  
 
 If you want to install Suricata IDS/IPS for your lab environment, download this:  
--Autosuricata: github.com/da667/Autosuricata  
+-Autosuricata: https://github.com/da667/Autosuricata  
 
 This is a script for setting up update automation on the Linux lab VMs eventually:  
 -updater: https://gist.github.com/da667/20f1c67c264f7823c7139f5c835a7026  
