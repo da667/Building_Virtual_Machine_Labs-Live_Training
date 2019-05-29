@@ -9,15 +9,11 @@ This training is more or less a refreshed adaptation of Building Virtual Labs: A
 
 Why virtualbox? Because, its the lowest common denominator:
 
--Its free
-
--It runs on every major operating system (Windows, Linux, and OSX)
-
--And so long as your hardware is 64-bit and supports virtualization extensions (e.g. Intel VT-x, AMD-V), it'll run mostly okay.
-
--Virtualbox is the most commonly used hosted hypervisor for most other trainings I have been to for exactly the same reasons I mentioned above. This means the lab we build together here can easily be adapted for when you attend other training events
-
--Most virtual machine images are either VMDK(VMware) or VDI (virtual disk image) files, both of which virtualbox supports seamlessly, allow you to easily take those VM images from vulnhub or wherever else and adapt them to your lab environment with little effort
+-Its free  
+-It runs on every major operating system (Windows, Linux, and OSX)  
+-And so long as your hardware is 64-bit and supports virtualization extensions (e.g. Intel VT-x, AMD-V), it'll run mostly okay.  
+-Virtualbox is the most commonly used hosted hypervisor for most other trainings I have been to for exactly the same reasons I mentioned above. This means the lab we build together here can easily be adapted for when you attend other training events  
+-Most virtual machine images are either VMDK(VMware) or VDI (virtual disk image) files, both of which virtualbox supports seamlessly, allow you to easily take those VM images from vulnhub or wherever else and adapt them to your lab environment with little effort  
 
 ==SOFTWARE REQUIREMENTS==
 
