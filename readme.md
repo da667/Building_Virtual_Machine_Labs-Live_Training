@@ -84,6 +84,9 @@ This section isn't exactly mandatory, but you'll thank me later. Request a "Deve
 
 -https://splunkbase.splunk.com/develop/ (Click the link labeled "Request Free Developer License"). Please note that developer licenses have to be "approved" by Splunk, and that this process takes anywhere from 1 to 3+ business days. However, I have *yet* to be denied.
 
+If you plan on installing Snort IDS/IPS for your lab environment, Please go to snort.org, and register an account. Once registered, you will need to retrieve your "oinkcode":  
+-https://snort.org/users/sign_up  
+
 Finally, I have some github projects for you to download:  
 
 If you want to install Snort IDS/IPS for your lab environment, download this:  
